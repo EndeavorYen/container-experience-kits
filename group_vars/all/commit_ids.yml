@@ -1,9 +1,9 @@
 ---
 git_repos:
-  CMK_BRANCH: fc5d19497229ecb9cb22dd69415ced9053b6b987
+  CMK_BRANCH: 9cc6022ae83b25f084967702ba3500c5a9da9757
   CMK_REPO: http://github.com/Intel-Corp/CPU-Manager-for-Kubernetes
-  DPDK_BRANCH: b2b58b51df4943bcab770b1eb66912eaa41e1306
-  DPDK_REPO: http://dpdk.org/git/dpdk
+  DPDK_BRANCH: 0da7f445df445630c794897347ee360d6fe6348b
+  DPDK_REPO: https://github.com/DPDK/dpdk
   MULTUS_CNI_BRANCH: 1ea64694f21a52235ff50b9181faf454676e55d8
   MULTUS_CNI_REPO: http://github.com/Intel-Corp/multus-cni
   NFD_BRANCH: 680f55d07bd8940174ff9c7be2807108ce26d00a
@@ -12,4 +12,4 @@ git_repos:
   SRIOV_CNI_REPO: http://github.com/Intel-Corp/sriov-cni
   VHOSTUSER_CNI_BRANCH: 99b62b1115f499632ec8a6af7396028d53f984b6
   VHOSTUSER_CNI_REPO: https://github.com/intel/vhost-user-net-plugin
-# 20171201
+# 2018.12.27

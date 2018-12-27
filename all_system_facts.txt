@@ -1,0 +1,8 @@
+X-K8S-Master | FAILED! => {
+    "changed": false, 
+    "failed": true, 
+    "module_stderr": "Shared connection to 192.168.122.31 closed.\r\n", 
+    "module_stdout": "/bin/sh: 1: /usr/bin/python: not found\r\n", 
+    "msg": "MODULE FAILURE", 
+    "rc": 0
+}
